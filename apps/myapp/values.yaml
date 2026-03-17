@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: 154.201.90.152/devops/nginx
-  tag: "init"
+  tag: "latest"
   pullPolicy: IfNotPresent
 
 service:
